@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a092efb7d0d1f1842a08027d52de5cc0, type: 3}
+  m_Name: Speed_1
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Infrastructure.ItemsProvider.SO_ItemData
+  id: Speed_1
+  itemName: Speed 1
+  price: 100
+  description: (+1 per sec)
+  Sprite: {fileID: -6277170958808670088, guid: da45b0ab81ccc664cb0c642238e71a54, type: 3}
+  type: 0
+  passiveIncomePerSecond: 1
+  clickMultiplier: 0
